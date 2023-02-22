@@ -3,6 +3,7 @@ A collection of links to my completed, current, and future grow projects.
 
 1. [On or Before](https://codepen.io/RyanKHawkins/pen/vYzEWNg)
 2. [Word/Sentence Counter](https://codepen.io/RyanKHawkins/pen/WNygqMK) (Javascript)
+3. [Boring Clock](https://codepen.io/RyanKHawkins/pen/mdGPmEK) (Javascript)
 
 
 #### Sandbox Sites I Hold My Projects On
