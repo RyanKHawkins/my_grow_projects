@@ -8,6 +8,7 @@ A collection of links to my completed, current, and future grow projects.
 5. [Basic Counter - React](https://codesandbox.io/s/counter-65z2bq?file=/src/App.js) (React)
 6. [Police Light Simulator](https://codepen.io/RyanKHawkins/full/PodzdVK) (CSS animation)
 
+#### Check out my [repo](https://github.com/RyanKHawkins/Project_Ideas) for possible future ideas.
 
 #### Sandbox Sites I Hold My Projects On
 [CodePen](https://codepen.io/RyanKHawkins)  
