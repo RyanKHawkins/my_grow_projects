@@ -8,6 +8,7 @@ A collection of links to my completed, current, and future grow projects.
 5. [Basic Counter - React](https://codesandbox.io/s/counter-65z2bq?file=/src/App.js) (React)
 6. [Police Light Simulator](https://codepen.io/RyanKHawkins/full/PodzdVK) (CSS animation)
 7. [Railroad Crossarm Simulator](https://codepen.io/RyanKHawkins/full/JjaRJVa) (CSS animation)
+8. [Password Generator](https://codepen.io/RyanKHawkins/full/WNaxZYp) (Javascript - Math.random method)
 
 #### Check out my [repo](https://github.com/RyanKHawkins/Project_Ideas) for possible future ideas.
 
